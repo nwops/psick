@@ -1,0 +1,8 @@
+image: gitpod/workspace-full
+
+tasks:
+  - init: pdk bundle install
+
+vscode:
+  extensions:
+    - puppet.puppet-vscode@0.28.0:g5CT+jlJywUtP9HoX4DIZg==
